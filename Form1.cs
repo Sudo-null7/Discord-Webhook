@@ -100,8 +100,8 @@ namespace Discord_Webhook
         {
             {
                 // Get the webhook URL and message from the text boxes
-                string webhookUrl = textBox1.Text;
-                string message = textBox2.Text;
+                string webhookUrl = textBox2.Text;
+                string message = textBox1.Text;
 
                 // Create a new HttpClient to send the request
                 var httpClient = new HttpClient();
