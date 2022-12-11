@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Discord Webhook\obj\Debug\Discord Webhook.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Discord Webhook\obj\Debug\Discord Webhook.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Discord Webhook\obj\Debug\Discord_Webhook.Properties.Resources.resources
+C:\Users\User\source\repos\Discord Webhook\obj\Debug\Discord Webhook.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Discord Webhook\obj\Debug\Discord Webhook.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Discord Webhook\obj\Debug\Discord_Webhook.Form1.resources
+C:\Users\User\source\repos\Discord Webhook\bin\Debug\Discord Webhook.exe.config
+C:\Users\User\source\repos\Discord Webhook\bin\Debug\Discord Webhook.exe
+C:\Users\User\source\repos\Discord Webhook\bin\Debug\Discord Webhook.pdb
+C:\Users\User\source\repos\Discord Webhook\obj\Debug\Discord Webhook.exe
+C:\Users\User\source\repos\Discord Webhook\obj\Debug\Discord Webhook.pdb
